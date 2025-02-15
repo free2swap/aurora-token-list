@@ -19,7 +19,7 @@
       "symbol": "WBNB",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/free2swap/aurora-token-list/main/assets/tokens/bnb.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/free2swap/aurora-token-list@main/assets/tokens/bnb.png"
     },
     {
       "name": "WukongWealth Token",
@@ -27,7 +27,7 @@
       "symbol": "WKW",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/free2swap/aurora-token-list/main/assets/tokens/wkw.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/free2swap/aurora-token-list@main/assets/tokens/wkw.png"
     },
     {
       "name": "BUSD Token",
