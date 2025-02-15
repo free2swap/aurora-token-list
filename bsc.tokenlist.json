@@ -19,7 +19,7 @@
       "symbol": "WBNB",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/free2swap/bsc-token-list/main/assets/tokens/bnb.png"
     },
     {
       "name": "WukongWealth Token",
