@@ -1,0 +1,89 @@
+{
+  "name": "BSC Default List",
+  "timestamp": "2023-11-14T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png",
+  "keywords": [
+    "bsc",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped BNB",
+      "address": "0x78eCBb43759aFF67c57BE9e66978fF417e31b992",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
+    },
+    {
+      "name": "WukongWealth Token",
+      "address": "0xBBFF215be981Dfe2B23884BC9d4acDe2c7518526",
+      "symbol": "WKW",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/free2swap/bsc-token-list/main/assets/tokens/wkw.png"
+    },
+    {
+      "name": "BUSD Token",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
+    },
+    {
+      "name": "USDT Token",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDT-6D8/logo.png"
+    },
+    {
+      "name": "USDC Token",
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDC-CD2/logo.png"
+    },
+    {
+      "name": "DAI Token",
+      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/DAI-D75/logo.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png"
+    },
+    {
+      "name": "Bitcoin Token",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/bitcoin/info/logo.png"
+    },
+    {
+      "name": "Cake Token",
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "symbol": "Cake",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png"
+    }
+  ]
+}
