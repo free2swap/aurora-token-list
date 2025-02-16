@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png",
+  "logoURI": "https://cdn.jsdelivr.net/gh/free2swap/aurora-token-list@main/assets/tokens/bnb.png",
   "keywords": [
     "bsc",
     "default"
