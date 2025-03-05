@@ -22,6 +22,22 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/binance/info/logo.png"
     },
     {
+      "name": "AuroraSwap Token",
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "symbol": "AURO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://cdn.jsdelivr.net/gh/free2swap/aurora-token-list@main/assets/tokens/auro.png"
+    },
+    {
+      "name": "AuroraSwap LP Token",
+      "address": "0x70f11B5608fFc95494187AAe2F9b9A10e96C1f14",
+      "symbol": "AURO-V2",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://cdn.jsdelivr.net/gh/free2swap/aurora-token-list@main/assets/tokens/auro.png"
+    },
+    {
       "name": "WukongWealth Token",
       "address": "0xBBFF215be981Dfe2B23884BC9d4acDe2c7518526",
       "symbol": "WKW",
